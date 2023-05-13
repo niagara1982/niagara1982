@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm  Tetiana!   
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am learning frontend development &#127482;&#127462; </h3>
+<h3 align="center">I am learning frontend development :ukraine:</h3>
 
 
 - 🌱 I’m currently learning: HTML, CSS, SASS, JavaScript Basic;
