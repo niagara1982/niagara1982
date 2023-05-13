@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm  Tetiana! &#128075; I am learning frontend development. 
+<h1 align="center">Hi, I'm  Tetiana! &#128075;  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">I am learning frontend development ua</h3>
 
 
 Hi, I'm Tetiana!  👋 I am learning frontend development. 
