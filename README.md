@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&&center=true&vCenter=true&multiline=true&width=500&height=180&lines=Frontend+developer+student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&&center=true&vCenter=true&multiline=true&width=100&height=10&lines=Frontend+developer+student)
 
 <h1 align="center">Hi, I'm  Tetiana!   
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
