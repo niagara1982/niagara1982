@@ -5,5 +5,4 @@
 
 
 - 🌱 I’m currently learning: HTML, CSS, SASS, JavaScript Basic;
-- 📫 How to reach me: [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/afestin)[![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://tanyashka1982@gmail.com)
-
+- 📫 How to reach me: [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/T_Melnyk1982)[![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://tanyashka1982@gmail.com)
